@@ -1,5 +1,3 @@
-![logo](https://github.com/TejasKoshti/TejasKoshti/blob/main/Yellow%20Corporate%20LinkedIn%20Banner%20(1).png?raw=true)
-
 <h1 align="center">Hi 👋, I'm Tejas Koshti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
