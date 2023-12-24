@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tejas Koshti</h1>
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="tejaskoshti" />
+<h1 align="center">Hello world, I'm Tejas Koshti👋</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
@@ -7,6 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="tejaskoshti" /></a> </p>
 <img align="right" width="400" height="270" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="tejaskoshti" /> 
 
+👨🏻‍💻  About Me
+
+- 💡 Hello everyone, I'm a 2022 pass-out graduate with a B.E. in Mechanical.
+Love to code, and explore Data Science these days. I enjoy collaborating with people on works of similar interest.
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
@@ -18,7 +23,7 @@
 
 - 📫 How to reach me **tejaskoshti2000@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/fyLT9](https://shorturl.at/fyLT9)
+- 📄 Know about my experiences [Resume](https://shorturl.at/fyLT9)
 <br>
 <br>
 <p><h3 align="center">Connect with me:</h3></p>
