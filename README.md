@@ -29,6 +29,7 @@ Love to code, and explore Data Science these days. I enjoy collaborating with pe
 <p><h3 align="center">Connect with me:</h3></p>
 <p align="center">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejaskoshti/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tejaskoshti/" /></a>
+<a href="https://mail.google.com/mail/tejaskoshti2000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tejaskoshti2000@gmail.com" /></a>
 <a href="https://twitter.com/https://twitter.com/tejaskoshti5" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="https://twitter.com/tejaskoshti5" /></a>
 <a href="https://instagram.com/tejas_koshti_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://instagram.com/tejas_koshti_" /></a>
 <a href="https://www.hackerrank.com/tejaskoshti" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
