@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaskoshti&label=Profile%20views&color=0e75b6&style=flat" alt="tejaskoshti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="tejaskoshti" /></a> </p>
-<img align="right" width="400" height="270" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="tejaskoshti" /> 
+
+
 
 👨🏻‍💻  About Me
 
-- 💡 Hello everyone, I'm a 2022 pass-out graduate with a B.E. in Mechanical.
-Love to code, and explore Data Science these days. I enjoy collaborating with people on works of similar interest.
+Hello, I'm Tejas Koshti, passionate about Java development with a strong foundation in object-oriented programming, I excel in building robust and scalable applications. Meanwhile, my expertise extends to Full Stack Development. I approach each project with eagerness to learn, grow, and refine my skills
+
+<img align="right" width="390" height="260" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="tejaskoshti" /> 
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
@@ -38,14 +39,27 @@ Love to code, and explore Data Science these days. I enjoy collaborating with pe
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,spring,hibernate,postman,ai,git,github,html,css,javascript,react,bootstrap" />
   </a>
 </p>
-
-<br>
 <br>
 
+
+<h3 align="center">Projects</h3>
+<div  align="center">
+<a href="https://github.com/TejasKoshti/BankSystemAPI/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BankSystemAPI&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://github.com/TejasKoshti/WhatsAppProjectOneToOneMapping/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=WhatsAppProjectOneToOneMapping&show_icons=true&theme=great-gatsby"></a>
+  
+<a href="https://github.com/TejasKoshti/BookStoreWebApp/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BookStoreWebApp&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://github.com/TejasKoshti/Mobile-Catalogue-API/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=Mobile-Catalogue-API&show_icons=true&theme=great-gatsby" ></a>
+</div>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="tejaskoshti"/></a> </p>
+
+<h3 align="center">GitHub Stats:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaskoshti&show_icons=true&locale=en&layout=compact" alt="tejaskoshti" />
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaskoshti&" alt="tejaskoshti" /></p>
