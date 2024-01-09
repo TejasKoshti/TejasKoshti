@@ -48,7 +48,7 @@ Hello, I'm Tejas Koshti, passionate about Java development with a strong foundat
 <br>
 
 
-<h3 align="center">Projects</h3>
+<h3 align="center">💻 My Projects</h3>
 <div  align="center">
 <a href="https://github.com/TejasKoshti/BankSystemAPI/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BankSystemAPI&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://github.com/TejasKoshti/WhatsAppProjectOneToOneMapping/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=WhatsAppProjectOneToOneMapping&show_icons=true&theme=great-gatsby"></a>
