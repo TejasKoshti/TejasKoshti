@@ -50,8 +50,8 @@ Hello, I'm Tejas Koshti, passionate about Java development with a strong foundat
 
 <h3 align="center">💻 My Projects</h3>
 <div  align="center">
-<a href="https://github.com/TejasKoshti/BankSystemAPI/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BankSystemAPI&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/TejasKoshti/WhatsAppProjectOneToOneMapping/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=WhatsAppProjectOneToOneMapping&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/TejasKoshti/TejasKoshti.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=TejasKoshti.github.io&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/TejasKoshti/BankSystemAPI/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BankSystemAPI&show_icons=true&theme=great-gatsby"></a>
   
 <a href="https://github.com/TejasKoshti/BookStoreWebApp/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=BookStoreWebApp&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://github.com/TejasKoshti/Mobile-Catalogue-API/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasKoshti&repo=Mobile-Catalogue-API&show_icons=true&theme=great-gatsby" ></a>
