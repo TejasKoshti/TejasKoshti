@@ -24,7 +24,7 @@ Hello, I'm Tejas Koshti, passionate about Java development with a strong foundat
 
 - 📫 How to reach me **tejaskoshti2000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/fyLT9)
+- 📄 Know about my experiences [Resume](https://shorturl.at/6tTBL)
 <br>
 <br>
 <p><h3 align="center">Connect with me:</h3></p>
@@ -35,6 +35,7 @@ Hello, I'm Tejas Koshti, passionate about Java development with a strong foundat
 <a href="https://instagram.com/tejas_koshti_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://instagram.com/tejas_koshti_" /></a>
 <a href="https://www.hackerrank.com/tejaskoshti" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
 <a href="https://www.leetcode.com/tejaskoshti" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"  /></a>
+  
 </p>
 <br>
 
@@ -42,7 +43,7 @@ Hello, I'm Tejas Koshti, passionate about Java development with a strong foundat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,spring,hibernate,postman,ai,git,github,html,css,javascript,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,spring,hibernate,dotnet,postman,ai,git,github,html,css,javascript,react,nodejs,bootstrap,mongodb,mysql,docker,kubernetes,jenkins" />
   </a>
 </p>
 <br>
